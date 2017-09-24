@@ -13,7 +13,7 @@
  - Como é um projeto de testes, não implementei LOG, UI, UoW, soluções complexas para acesso a dados ou tratamento de exception. <br/>
  
  # Úteis <br/>
- ## Comandos Postman que podem ser úteis verbo GET <br/>
+ ## Comandos Postman que podem ser úteis verbo POST <br/>
  ### Rodar o projeto Farfetch.Services como startup project <br/>
   - http://localhost:8087/api/farfetch/v1/gateway/blockallservices (bloqueia todos os serviços) 
   - http://localhost:8087/api/farfetch/v1/gateway/unblockallservices (desbloqueia todos os serviços)
